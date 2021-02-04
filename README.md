@@ -15,8 +15,8 @@ https://hackernoon.com/images/f2px36fy.gif
 --------
 ## Connect:
 <div id="contact-div">
-  <a href="discord.com">
-    <img align="left" width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/>
+  <a href="discord.com" align="center">
+    <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/>
     **_『𝓓𝓻𝓮𝔂𝓭𝓮𝓷𝓖𝔂𝓼』_#0420**
   </a>
   <a href="mailto:deliessche.maxime@gmail.com">
