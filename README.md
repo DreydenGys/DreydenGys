@@ -14,3 +14,6 @@ https://hackernoon.com/images/f2px36fy.gif
 
 --------
 ## Connect:
+<div align="center">
+  <a href=""><img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/></a>
+</div>
