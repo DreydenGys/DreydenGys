@@ -14,7 +14,7 @@ https://hackernoon.com/images/f2px36fy.gif
 
 --------
 ## Connect:
-<table border="hidden">
+<table>
 <tr>
   <td>
     <a href="discord.com" align="center" valign="center" height="64px">
