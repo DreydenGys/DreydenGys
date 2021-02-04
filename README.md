@@ -15,29 +15,13 @@ https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2
 
 --------
 ## Connect:
-<table>
-<tr>
-  <td>
-    <a href="discord.com" align="center" valign="center" height="64px">
-        <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/>
-    </a>
-  </td>
-  <td>
-    <a href="discord.com" align="center" valign="center" height="64px">
-      <strong>_『𝓓𝓻𝓮𝔂𝓭𝓮𝓷𝓖𝔂𝓼』_#0420</strong>
-    </a>
-  </td>
-  
-  <td>
-    <a href="mailto:deliessche.maxime@gmail.com">
-      <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png"/><strong>deliessche.maxime@gmail.com</strong>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.linkedin.com/in/maxime-deliessche-92780a1a0/">
-      <img width="64px" height="64px" src="http://www.master221.fr/wp-content/uploads/2019/11/linkedin-icon.png"/>
-      <strong>Maxime Deliessche</strong>
-    </a>
-  </td>
- <tr>
-</table>
+
+<a href="discord.com" align="center" valign="center" height="64px">
+    <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/>
+</a>
+<a href="mailto:deliessche.maxime@gmail.com">
+  <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png"/>
+</a>
+<a href="https://www.linkedin.com/in/maxime-deliessche-92780a1a0/">
+  <img width="64px" height="64px" src="http://www.master221.fr/wp-content/uploads/2019/11/linkedin-icon.png"/>
+</a>
