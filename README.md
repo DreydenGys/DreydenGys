@@ -21,9 +21,13 @@ https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2
       <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:deliessche.maxime@gmail.com">
     <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/maxime-deliessche-92780a1a0/">
     <img width="64px" height="64px" src="http://www.master221.fr/wp-content/uploads/2019/11/linkedin-icon.png"/>
