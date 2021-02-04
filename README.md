@@ -41,11 +41,3 @@ https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2
   </td>
  <tr>
 </table>
-
-<div>
-  <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/>
-  <strong>_『𝓓𝓻𝓮𝔂𝓭𝓮𝓷𝓖𝔂𝓼』_#0420</strong>
-  <br>
-  <img width="64px" height="64px" src="http://www.master221.fr/wp-content/uploads/2019/11/linkedin-icon.png"/>
-  <strong>Maxime Deliessche</strong>
-  </div>
