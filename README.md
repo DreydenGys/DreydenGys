@@ -18,7 +18,7 @@ https://hackernoon.com/images/f2px36fy.gif
 <tr>
   <a href="discord.com" align="center" valign="center" height="64px">
   <td valign="middle">
-      <img width="32px" height="32px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/>
+      <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/>
     
   </td>
   <td><strong>_『𝓓𝓻𝓮𝔂𝓭𝓮𝓷𝓖𝔂𝓼』_#0420</strong></td>
