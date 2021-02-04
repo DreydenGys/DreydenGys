@@ -24,6 +24,7 @@ https://hackernoon.com/images/f2px36fy.gif
     <strong>deliessche.maxime@gmail.com</strong>
   </a>
   <a href="https://www.linkedin.com/in/maxime-deliessche-92780a1a0/">
-  <img width="64px" height="64px" src="http://www.master221.fr/wp-content/uploads/2019/11/linkedin-icon.png"/></a>
-  <strong>Maxime Deliessche</strong>
+    <img width="64px" height="64px" src="http://www.master221.fr/wp-content/uploads/2019/11/linkedin-icon.png"/>
+    <strong>Maxime Deliessche</strong>
+  </a>
 </div>
