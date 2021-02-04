@@ -1,4 +1,4 @@
-<div align="center"><img height="300px" width="600px" src="https://hackernoon.com/images/f2px36fy.gif"/>
+<div align="center"><img height="300px" width="800px" src="https://hackernoon.com/images/f2px36fy.gif"/>
 <!--https://miro.medium.com/max/2400/1*OohqW5DGh9CQS4hLY5FXzA.png -->
 </div>
 
