@@ -16,7 +16,7 @@ https://hackernoon.com/images/f2px36fy.gif
 ## Connect:
 <div id="contact-div">
   <a href="discord.com">
-    <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/>
+    <img align="left" width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/>
     <strong>_『𝓓𝓻𝓮𝔂𝓭𝓮𝓷𝓖𝔂𝓼』_#0420</strong>
   </a>
   <a href="mailto:deliessche.maxime@gmail.com">
@@ -29,10 +29,3 @@ https://hackernoon.com/images/f2px36fy.gif
   </a>
  
 </div>
-<style>
-  #contact-div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-</style>
