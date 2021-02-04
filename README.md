@@ -20,8 +20,7 @@ https://hackernoon.com/images/f2px36fy.gif
     <strong>_『𝓓𝓻𝓮𝔂𝓭𝓮𝓷𝓖𝔂𝓼』_#0420</strong>
   </a>
   <a href="mailto:deliessche.maxime@gmail.com">
-    <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png"/>
-    <strong>deliessche.maxime@gmail.com</strong>
+    <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png"/><strong>deliessche.maxime@gmail.com</strong>
   </a>
   <a href="https://www.linkedin.com/in/maxime-deliessche-92780a1a0/">
     <img width="64px" height="64px" src="http://www.master221.fr/wp-content/uploads/2019/11/linkedin-icon.png"/>
