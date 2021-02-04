@@ -16,7 +16,7 @@ https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2
 --------
 ## Connect:
 
-<div align="center">
+<div>
   <a href="discord.com" align="center" valign="center" height="64px">
       <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/>
   </a>
