@@ -8,7 +8,7 @@ https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2
 
 ## <div align="center" width="200">Hey there.👋 I'm a frenchy infosec enthusiast!💻</div>
 
-## Languages and Tools  
+### Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
