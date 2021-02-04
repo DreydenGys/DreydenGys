@@ -8,6 +8,8 @@ https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2
 
 --------
 
+### <div align="center" width="200">Hey there, call me Max. I'm a frenchy infosec enthusiast!</div>
+
 --------
 <div>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/?username=DreydenGys&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
