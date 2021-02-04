@@ -14,7 +14,7 @@ https://hackernoon.com/images/f2px36fy.gif
 
 --------
 ## Connect:
-<table>
+<table border="0">
 <tr>
   
   <td valign="middle">
