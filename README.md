@@ -6,8 +6,6 @@ https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2
 -->
 </div>
 
---------
-
 ## <div align="center" width="200">Hey there.👋 I'm a frenchy infosec enthusiast!💻</div>
 
 --------
