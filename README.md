@@ -16,6 +16,6 @@ https://hackernoon.com/images/f2px36fy.gif
 ## Connect:
 <div>
   <a href=""><img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/></a>
-  <a href=""><img width="64px" height="64px" src="https://www.pikpng.com/pngl/m/33-336849_go-for-gmail-gmail-icon-clipart.png"/></a>
-  <a href=""><img width="64px" height="64px" src=""/></a>
+  <a href=""><img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png"/></a>
+  <a href=""><img width="64px" height="64px" src="http://www.master221.fr/wp-content/uploads/2019/11/linkedin-icon.png"/></a>
 </div>
