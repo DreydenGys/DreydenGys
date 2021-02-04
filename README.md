@@ -16,7 +16,7 @@ https://hackernoon.com/images/f2px36fy.gif
 ## Connect:
 <table>
 <tr>
-  <td>
+  <td valign="middle">
     <a href="discord.com" align="center" valign="center" height="64px">
       <img width="64px" height="64px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png"/>
       <strong>_『𝓓𝓻𝓮𝔂𝓭𝓮𝓷𝓖𝔂𝓼』_#0420</strong>
