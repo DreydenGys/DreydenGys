@@ -31,7 +31,6 @@ https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="45" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="45" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="45" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="45" />  
 </div>  
 
