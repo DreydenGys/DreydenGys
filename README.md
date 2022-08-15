@@ -5,7 +5,7 @@ https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2
 </div>-->
 
 ## <div align="center" width="200">Hey there.👋 I'm a frenchy infosec enthusiast!💻</div>
- 
+ <!--
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45/>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" />  
@@ -31,9 +31,9 @@ https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="45" />  
 </div>  
-
+-->
 --------
-<div>
+<div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/?username=DreydenGys&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
  </div>
 
